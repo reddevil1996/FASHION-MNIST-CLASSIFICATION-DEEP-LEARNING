@@ -1,1 +1,3 @@
 # FASHION-MNIST-CLASSIFICATION-DEEP-LEARNING
+
+FOR DATASET VISIT THIS LINK :  https://pjreddie.com/projects/mnist-in-csv/
